@@ -1,38 +1,47 @@
-<h1 align="center" > Hi there 👋 </h1> 
-<br>
-
-**I'm Alejandro and I'm in the process of becoming a web application developer.**
-
-**I am a Telecommunications Installations technician and I am training in the field of programming.**
+<h1 align="center">Hi there 👋, I'm Alejandro</h1>
 
 <br>
-<hr>
+
+💻 Web Application Development Student | 📡 Telecommunications Technician
+
+🚀 Passionate about technology and software development. I am currently training to become a Higher Technician in Web Application Development, leveraging my background in telecommunications installations to create innovative tech solutions.
+
 <br>
 
-**To contact me use:**
+---
+
+<br>
+
+
+### 📬 To contact me use:
 
 <br>
 
 <a href="mailto:barrionuevorosadoalejandro@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" height="30">
 </a>&nbsp;&nbsp;
-<a href="//www.linkedin.com/in/alejandro-barrionuevo-rosado-627532238/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/alejandro-barrionuevo-rosado-627532238/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>&nbsp;&nbsp;
 <a href="https://hub.docker.com/u/alejandrobr" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub" height="30">
 </a>&nbsp;&nbsp;
 <a href="https://gist.github.com/Alejandro-BR" target="_blank">
-  <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gists">
+  <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gists" height="32">
 </a>
 
 
 
-<br>
-<hr>
+
 <br>
 
-**Languages and tools I use:**
+---
+
+<br>
+
+
+
+### 🛠️ Technologies & Tools
 
 <br>
 
