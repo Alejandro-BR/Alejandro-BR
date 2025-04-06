@@ -79,7 +79,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="40"/>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/sqlite-logo-256.png" alt="sqlite" width="40" height="40"/>
 </a>
 
 
