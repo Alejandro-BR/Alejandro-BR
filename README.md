@@ -49,7 +49,7 @@
     <img src="https://brandlogo.org/wp-content/uploads/2024/11/Cascading-Style-Sheets-CSS-Logo-2024.png.webp" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="object-fit: contain;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60" height="40" style="object-fit: contain;" />
   </a>
 
   <!-- Backend -->
