@@ -80,7 +80,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode" width="40" height="40" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxr4dH.og8l0VK7ZT_RROCKegYBFVWhsZaY4YqkcUiUEdYXTeJ_fc4TzvODw_lZK2lrEGffo9rTTTzAjLvb5Ktos-&format=source" alt="Visual Studio" width="50" height="50" />
+  </a>
   &nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
