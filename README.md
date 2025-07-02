@@ -7,6 +7,15 @@
 💻 Full Stack Developer | Telecommunications Technician
 
 
+### 🌐 Portfolio
+
+<p>
+<a href="https://alejandro-barrionuevo-rosado.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-My%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="30" />
+</a>
+
+</p>
+
 ### 📬 Contact Me:
 
 <p>
@@ -31,6 +40,27 @@
 
 ### 🛠️ Technologies & Tools:
 
+  <!-- Backend -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" alt=".NET Framework" width="60" height="40" style="object-fit: contain;" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring" width="40" height="35" />
+  </a>
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/sqlite-logo-256.png" alt="SQLite" width="40" height="40" />
+  </a>
+</p>
 <p >
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -51,29 +81,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60" height="40" style="object-fit: contain;" />
   </a>
-
-  <!-- Backend -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" alt=".NET Framework" width="60" height="40" style="object-fit: contain;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  </a>
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/sqlite-logo-256.png" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
-
 <p >
   <!-- Tools & Platforms -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
