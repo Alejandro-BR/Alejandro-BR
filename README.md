@@ -6,7 +6,7 @@
 
 💻 Full Stack Developer | Telecommunications Technician
 
-⭐ Currently pursuing a Master’s degree in Artificial Intelligence and Big Data.
+⭐ Currently pursuing a Vocational Master’s in Artificial Intelligence and Big Data.
 
 
 ### 🌐 Portfolio
