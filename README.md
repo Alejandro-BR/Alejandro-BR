@@ -97,7 +97,7 @@
   </a>
   &nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxr4dH.og8l0VK7ZT_RROCKegYBFVWhsZaY4YqkcUiUEdYXTeJ_fc4TzvODw_lZK2lrEGffo9rTTTzAjLvb5Ktos-&format=source" alt="Visual Studio" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
