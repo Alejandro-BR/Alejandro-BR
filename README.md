@@ -8,7 +8,6 @@
 
 ⭐ Currently pursuing a Vocational Master’s in Artificial Intelligence and Big Data.
 
-
 ### 🌐 Portfolio
 
 <p>
@@ -38,8 +37,6 @@
   </a>
 </p>
 
-
-
 ### 🛠️ Technologies & Tools:
 
   <!-- Backend -->
@@ -65,6 +62,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/sqlite-logo-256.png" alt="SQLite" width="40" height="40" />
   </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+       alt="MongoDB"
+       width="40"
+       height="40" />
+</a>
+
 </p>
 <p >
   <!-- Frontend -->
