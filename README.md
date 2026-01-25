@@ -35,35 +35,40 @@
   <a href="https://gist.github.com/Alejandro-BR" target="_blank">
     <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gists" height="30" />
   </a>
+    &nbsp;
+  <a href="https://www.npmjs.com/~alejandro-br" target="_blank">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30" />
+</a>
+
 </p>
 
 ### 🛠️ Technologies & Tools:
 
   <!-- Backend -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+    <img src="svg/csharp.svg" alt="C#" width="40" height="40" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" alt=".NET Framework" width="60" height="40" style="object-fit: contain;" />
+    <img src="svg/dotnet.svg" alt=".NET Framework" width="40" height="40" style="object-fit: contain;" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <img src="svg/java.svg" alt="Java" width="40" height="40" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring" width="40" height="35" />
+    <img src="svg/springboot.svg" alt="Spring" width="40" height="35" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40">
+  <img src="svg/python.svg" alt="Python" width="40">
   </a>
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="svg/mysql.svg" alt="MySQL" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://s28309.pcdn.co/wp-content/themes/321-web-marketing/assets/images/sqlite-logo-256.png" alt="SQLite" width="40" height="40" />
+    <img src="svg/sqlite.svg" alt="SQLite" width="40" height="40" />
   </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+  <img src="svg/mongodb-plain.svg"
        alt="MongoDB"
        width="40"
        height="40" />
@@ -73,54 +78,61 @@
 <p >
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="svg/javascript.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    <img src="svg/typescript.svg" alt="TypeScript" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+    <img src="svg/react.svg" alt="React" width="40" height="40" />
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+    <img src="svg/angular.svg" alt="Angular" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://brandlogo.org/wp-content/uploads/2024/11/Cascading-Style-Sheets-CSS-Logo-2024.png.webp" alt="CSS3" width="40" height="40" />
+    <img src="svg/css.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60" height="40" style="object-fit: contain;" />
+    <img src="svg/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="object-fit: contain;" />
+  </a>
+  <a href="https://effector.dev/" target="_blank" rel="noreferrer">
+    <img src="svg/effector.svg" alt="Effector" width="40" height="40" style="object-fit: contain;" />
   </a>
 <p >
   <!-- Tools & Platforms -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+    <img src="svg/git.svg" alt="Git" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode" width="40" height="40" />
+    <img src="svg/vscode.svg" alt="VSCode" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40" />
+    <img src="svg/visualstudio.svg" alt="Visual Studio" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+    <img src="svg/aws.svg" alt="AWS" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+    <img src="svg/linux.svg" alt="Linux" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+    <img src="svg/docker.svg" alt="Docker" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    <img src="svg/postman.svg" alt="Postman" width="40" height="40" />
   </a>
   &nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+    <img src="svg/arduino.svg" alt="Arduino" width="40" height="40" />
+  </a>
+    &nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="svg/figma.svg" alt="Figma" width="40" height="40" />
   </a>
 </p>
