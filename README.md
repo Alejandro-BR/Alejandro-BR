@@ -60,6 +60,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="svg/python.svg" alt="Python" width="40">
   </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="svg/fastapi.svg" alt="FastAPI" width="40">
+  </a>
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="svg/mysql.svg" alt="MySQL" width="40" height="40" />
